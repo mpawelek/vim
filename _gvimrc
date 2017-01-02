@@ -1,0 +1,4 @@
+:set vb t_vb=
+:comp! javac
+:set wrap!
+:set nu

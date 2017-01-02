@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='d:\git\artur'
+let g:netrw_dirhist_2='d:/git/artur'
+let g:netrw_dirhist_3='d:\git\artur'
+let g:netrw_dirhist_4='d:/git/artur'
+let g:netrw_dirhist_5='d:/testy/test'
+let g:netrw_dirhist_6='d:\testy\test'
+let g:netrw_dirhist_7='d:\Temp\2016.05.14'
+let g:netrw_dirhist_8='d:\testy\esen\zwroty'
